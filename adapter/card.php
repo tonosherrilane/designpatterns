@@ -1,4 +1,4 @@
-<?php
+gti<?php
 interface LocalATMCard {
     public function insertToLocalATM(): string;
 }
